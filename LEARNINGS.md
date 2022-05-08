@@ -1,1 +1,1 @@
-A variable is a placeholder for values
+A variable is a placeholder for values.
